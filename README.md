@@ -33,9 +33,18 @@ Once burned, a **cross-chain message** is sent (simulated in this demo), and the
 
 ## 🖼️ Demo Screenshots
 
-![Mint Scroll](./screenshots/mint.png)
-![Burn Scroll](./screenshots/burn.png)
-![Sui Mint](./screenshots/sui-mint.png)
+![WhatsApp Image 2025-08-03 at 20 56 17_e6759ef0](https://github.com/user-attachments/assets/70ce0888-1d94-4dc1-9580-e709f367b2ef)
+![WhatsApp Image 2025-08-03 at 20 56 17_c53d4cc4](https://github.com/user-attachments/assets/7819c044-c215-45d3-943f-00d5da7d3a57)
+![WhatsApp Image 2025-08-03 at 20 56 18_96a5a6b4](https://github.com/user-attachments/assets/e74e76a2-0142-490b-b1c6-5031d165adb2)
+![WhatsApp Image 2025-08-03 at 20 56 18_f15c6e34](https://github.com/user-attachments/assets/f321f87f-4833-4b0f-b917-8dd975210415)
+![WhatsApp Image 2025-08-03 at 20 56 18_f9459c46](https://github.com/user-attachments/assets/3d470c69-170e-4ff0-8c8b-4ad26202a5d8)
+![WhatsApp Image 2025-08-03 at 20 56 19_7b7bf5aa](https://github.com/user-attachments/assets/3ecfe1e9-f79d-4507-8c04-85de6f3e8d78)
+![WhatsApp Image 2025-08-03 at 20 56 19_b5e9d080](https://github.com/user-attachments/assets/e0281aaa-c2e0-4017-8fde-60d68f17dd38)
+![WhatsApp Image 2025-08-03 at 20 56 19_72096ccf](https://github.com/user-attachments/assets/a545ec5f-a472-450f-9e48-62f72e237c7b)
+![WhatsApp Image 2025-08-03 at 20 56 19_15284a78](https://github.com/user-attachments/assets/8191f640-b2c7-4e93-8dfd-69f306ee8230)
+![WhatsApp Image 2025-08-03 at 20 56 20_9104836c](https://github.com/user-attachments/assets/4c9fa230-078b-41b7-acb2-f5517ed6bf7a)
+
+
 
 ---
 
